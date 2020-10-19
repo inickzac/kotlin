@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuSortByColor"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Сортировка по цвету"/>
+    <item
+        android:id="@+id/menuSortByDate"
+        android:title="Сортировка по дате"/>
+    <item
+        android:id="@+id/menuSortByAuthor"
+        android:title="Сортировка по автору"/>
+    <item
+        android:id="@+id/menuSortByDescription"
+        android:title="Сортировка по теме"/>
+</menu>

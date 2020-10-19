@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menuRed"
+    android:icon="@mipmap/ic_launcher"
+    android:title="Красный"/>
+    <item
+        android:id="@+id/menuWhite"
+        android:title="Белый"/>
+    <item
+        android:id="@+id/menuGreen"
+        android:title="Зеленый"/>
+    <item
+        android:id="@+id/menuYellow"
+        android:title="Желтый"/>
+    <item
+        android:id="@+id/menuBlue"
+        android:title="Синий"/>
+</menu>
